@@ -16,16 +16,16 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
+    author = "Frank Doyle"
+    description = "Frank Doyle's personal website"
     keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
+    info = "Test Analyst and aspiring Developer"
     avatarurl = "images/avatar.jpg"
-    footercontent = "Enter a text here."
+    footercontent = "Copyright F. Doyle 2019"
 
     dateformat = "January 2, 2006"
 
-    hideCredits = false
+    hideCredits = true
     hideCopyright = false
     since = 2019
 
@@ -39,7 +39,7 @@ disqusShortname = "yourdiscussshortname"
     # "auto" (use preference set by browser)
     # "dark" (dark background, light foreground)
     # "light" (light background, dark foreground) (default)
-    colorscheme = "light"
+    colorscheme = "dark"
 
     # Series see also post count
     maxSeeAlsoItems = 5
@@ -59,7 +59,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/frankdoylezw/"
 [[params.social]]
     name = "Gitlab"
     icon = "fab fa-gitlab"
@@ -69,7 +69,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Twitter"
     icon = "fab fa-twitter"
     weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "https://twitter.com/frankdoylezw/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
@@ -111,7 +111,7 @@ disqusShortname = "yourdiscussshortname"
             url = "projects/"
 
             [[languages.en.menu.main]]
-            name = "Contact me"
+            name = "Contact"
             weight = 5
             url = "contact/"
 
